@@ -31,6 +31,7 @@ h1{
   padding-top: 30px;
 }
 #momo{
+
   text-align: center;
   font-size: 50px;
   font-family: Consolas,'Lucida Console','Bitstream VeraSans Mono','DejaVu Sans Mono',monospace;
@@ -41,4 +42,17 @@ h1{
 }
 #solo{
   position: justify;
+}
+#gulu{
+  text-align:center;
+  font-family:  Verdana,'Bitstream Vera Sans','DejaVu Sans',sans-serif;
+  padding-top: 20px;
+
+}
+#contact{
+  padding-bottom: 30px;
+}
+
+footer{
+  padding-bottom: 50px;
 }
