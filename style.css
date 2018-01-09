@@ -1,0 +1,44 @@
+li{
+  display: inline-block;
+
+}
+#cart{
+  background: url('img.jpeg');
+  height: 500px;
+  width:100%;
+}
+
+header
+{
+  text-align: center;
+font-size: 50px;
+font-family: Trattatello, fantasy;
+
+}
+h1{
+  padding-top: 50px;
+
+}
+#mongo{
+  color:red;
+  font-family: Verdana,'Bitstream Vera Sans','DejaVu Sans',sans-serif;
+}
+
+#gogo{
+  text-align: center;
+}
+#moto{
+  padding-top: 30px;
+}
+#momo{
+  text-align: center;
+  font-size: 50px;
+  font-family: Consolas,'Lucida Console','Bitstream VeraSans Mono','DejaVu Sans Mono',monospace;
+}
+#logo{
+  background-image: url('img4.jpeg');
+  background-size: cover;
+}
+#solo{
+  position: justify;
+}
