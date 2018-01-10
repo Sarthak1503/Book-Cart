@@ -1,5 +1,6 @@
 li{
   display: inline-block;
+  text-align: center;
 
 }
 #cart{
@@ -34,7 +35,7 @@ h1{
 
   text-align: center;
   font-size: 50px;
-  font-family: Consolas,'Lucida Console','Bitstream VeraSans Mono','DejaVu Sans Mono',monospace;
+  font-family: DejaVu Sans Mono;
 }
 #logo{
   background-image: url('img4.jpeg');
@@ -55,4 +56,15 @@ h1{
 
 footer{
   padding-bottom: 50px;
+}
+#long{
+  font-size: 20px;
+}
+#home{
+  font-size: 20px;
+}
+#jungle{
+  padding-top: 90px;
+  text-align: center;
+  background-color: rgba(0,0,0,0,0.5);
 }
